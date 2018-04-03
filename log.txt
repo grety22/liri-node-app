@@ -1,0 +1,59 @@
+[31m[1mplease type a command after "liri.js"[22m[39m
+type [36m[1mmy-tweets[22m[39m to get a list of your last 14 tweets from twitter
+type [32m[1mspotify-this-song[22m[39m to get info about that track from spotify
+type [35m[1mmovie-this[22m[39m to get info about that movie from OMdb
+type [33m[1mdo-what-it-says[22m[39m to get info about that movie from OMdb
+[31m[1mplease type a command after "liri.js"[22m[39m
+type [36m[1mmy-tweets[22m[39m to get a list of your last 14 tweets from twitter
+type [32m[1mspotify-this-song[22m[39m to get info about that track from spotify
+type [35m[1mmovie-this[22m[39m to get info about that movie from OMdb
+type [33m[1mdo-what-it-says[22m[39m to get info about that movie from OMdb
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+{ Source: 'Internet Movie Database', Value: '7.8/10' }
+{ Source: 'Rotten Tomatoes', Value: '88%' }
+{ Source: 'Metacritic', Value: '75/100' }
+[38;2;145;115;192mRotten Tomatoes Rating: [39m7.8
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+[38;2;145;115;192mRotten Tomatoes Rating: [39m7.8
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+88%
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+[38;2;145;115;189mTitle: [39mTitanic
+[38;2;145;115;190mYear: [39m1997
+[38;2;145;115;191mIMDB Ratings: [39m7.8
+[38;2;145;115;193mRotten Tomatoes Rating: [39m88%
+[38;2;145;115;193mCountry: [39mUSA
+[38;2;145;115;194mLanguage: [39mEnglish, Swedish
+[38;2;145;115;194mPlot of the movie: [39mA seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+[38;2;145;115;194mActors: [39mLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
