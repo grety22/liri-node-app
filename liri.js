@@ -25,15 +25,9 @@ console.log = function () {
 }
 console.error = console.log;
 
-
-
 var commands = ['my-tweets','spotify-this-song','movie-this','do-what-it-says'];
 var argumCommand = process.argv[2];
 var argumTres = process.argv[3];
-// CREATING THE LOGS TXT FILE
-fs.writeFile('logs.txt', '*** LIRI APP ***' , function (err) {
-  if (err) throw err;
-});
 
 /****** TWITTER ******/
 var Twitter = require('twitter');
